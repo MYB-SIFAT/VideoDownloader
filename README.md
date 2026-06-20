@@ -114,25 +114,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
-
-| Layer | Technology | Version |
-|---|---|:---:|
-| **Language** | Python | 3.11+ |
-| **Web Framework** | Flask | 3.0.0 |
-| **WSGI Server** | Gunicorn | 21.2.0 |
-| **Download Engine** | yt-dlp | 2026.06.09 |
-| **Media Processing** | FFmpeg | Latest |
-| **Database** | SQLite | Built-in |
-| **CORS** | flask-cors | 4.0.0 |
-| **Frontend** | Vanilla JS + Lucide Icons | — |
-| **Container** | Docker (python:3.12-slim) | — |
-
-</div>
-
----
 
 ## 📁 Project Structure
 
@@ -557,7 +539,7 @@ ffmpeg (system)        # Audio/video processing & merging
 
 ### SIFAT
 
-**Open Source Developer & Content Creator**  
+**Open Source Developer**  
 🇧🇩 Bangladesh
 
 <br>
