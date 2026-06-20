@@ -26,7 +26,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 
 
 <div align="center">
 
